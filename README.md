@@ -49,9 +49,15 @@ try {
 
 # Folder Structure
 facility-booking/
+├─ backend/
 │ ├─ index.js/
 │ ├─ facilityBooking.js/
 │ ├─ facilityBooking.test.js/
+│ ├─ /
+│ ├─ /
+│ ├─ .js
+│ └─ .json
+└─ /
 
 index.js: Entry point for interacting with the booking system.
 facilityBooking.js: Contains the implementation of the FacilityBooking class.
