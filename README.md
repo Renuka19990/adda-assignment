@@ -54,6 +54,7 @@ facility-booking/
 ├── facilityBooking.js
 └── facilityBooking.test.js
 
+
 index.js: Entry point for interacting with the booking system.
 facilityBooking.js: Contains the implementation of the FacilityBooking class.
 facilityBooking.test.js: Contains unit tests for the FacilityBooking class.
